@@ -14,6 +14,12 @@
 
 <img src="user_modification.gif">
 
+### Visualization in detail
+
+**Description:** Ticker: Uber Period: 2h Interval: 2m
+
+<img src="visualization.gif">
+
 ## Notes
 **Things to improve:** Future improvements would include adding try-except blocks to handle mistakes from the user when modifying period and interval data 
 
