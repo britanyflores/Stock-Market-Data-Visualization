@@ -4,7 +4,7 @@
 
 ### Running code without period and interval modification
 
-**Description:** Launching the program without user modification for the period and interval and allowing the user select the ticker
+**Description:** Launching the program without user modification for the period and interval and allowing the user select the ticker (Default modification: Period = 1d, Ticker = 1m)
 
 <img src="no_user_modification.gif">
 
@@ -16,7 +16,7 @@
 
 ### Visualization in detail
 
-**Description:** Ticker: Uber Period: 2h Interval: 2m
+**Description:** Ticker: Uber, Period: 2h, Interval: 2m
 
 <img src="visualization.gif">
 
