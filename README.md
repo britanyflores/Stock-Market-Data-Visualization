@@ -4,11 +4,11 @@
 
 ### Running code without period and interval modification
 
-**Description:** Launching the program without user modification for the period and interval and allowing the user select the ticker (Default modification: Period = 1d, Ticker = 1m)
+**Description:** Launching the program without user modification for the period and interval and allowing the user select the ticker (Default: Period = 1d, Ticker = 1m)
 
 <img src="no_user_modification.gif">
-
-### Running code witho period and interval modification
+8
+### Running code with period and interval modification
 
 **Description:** Launching the program with user modification for the period and interval and allowing the user select the ticker
 
